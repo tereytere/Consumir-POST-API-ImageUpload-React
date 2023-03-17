@@ -1,4 +1,4 @@
-![image]([https://www.flickr.com/photos/153724200@N07/40932659024](https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png))
+![image](https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png)
 
 # Envío de Imagen en local por una API POST
 
